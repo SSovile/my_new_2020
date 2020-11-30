@@ -8,6 +8,7 @@ void function () {
 
 int main() {
 	int i=0,a,b,k=0;
+printf("Test 1 git");
 	printf("Vkazit 1 cheslo=");
 	scanf_s("%d", &a);
 	printf("Vkazit 2 cheslo=");
